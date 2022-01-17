@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/kelvinsantos/Development/personal/secret-project/src/logs/error/.651b13b4ce3ba2ed742e23a6d3db5ae0848a5e9c-audit.json",
+    "files": [
+        {
+            "date": 1642404068392,
+            "name": "/Users/kelvinsantos/Development/personal/secret-project/src/logs/error/2022-01-17.log",
+            "hash": "2da98644bc0df72cf375cfb1d454b462"
+        }
+    ]
+}

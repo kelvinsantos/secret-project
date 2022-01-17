@@ -1,0 +1,35 @@
+2022-01-17 15:21:08 info: =================================
+2022-01-17 15:21:08 info: ======= ENV: development =======
+2022-01-17 15:21:08 info: 🚀 App listening on the port 3000
+2022-01-17 15:21:08 info: =================================
+2022-01-17 15:22:13 info: [0mGET / [32m200[0m 4.562 ms - 2[0m
+2022-01-17 15:22:26 info: =================================
+2022-01-17 15:22:26 info: ======= ENV: development =======
+2022-01-17 15:22:26 info: 🚀 App listening on the port 3000
+2022-01-17 15:22:26 info: =================================
+2022-01-17 15:22:34 info: [0mGET / [32m200[0m 4.379 ms - 2[0m
+2022-01-17 15:23:41 info: [0mGET /signup [33m404[0m 1.825 ms - 145[0m
+2022-01-17 15:23:44 error: [POST] /signup >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-01-17 15:23:44 info: [0mPOST /signup [33m400[0m 4.520 ms - 63[0m
+2022-01-17 15:23:57 error: [POST] /signup >> StatusCode:: 400, Message:: password must be a string
+2022-01-17 15:23:57 info: [0mPOST /signup [33m400[0m 20.420 ms - 39[0m
+2022-01-17 15:24:04 info: [0mPOST /signup [32m201[0m 159.231 ms - 177[0m
+2022-01-17 15:24:52 info: [0mPOST /login [32m200[0m 86.226 ms - 176[0m
+2022-01-17 15:24:54 info: [0mPOST /login [32m200[0m 83.057 ms - 176[0m
+2022-01-17 15:25:28 info: [0mPOST /logout [32m200[0m 9.478 ms - 177[0m
+2022-01-17 15:26:18 error: [POST] /signup >> StatusCode:: 409, Message:: You're email s.kelvinjohn@gmail.com already exists
+2022-01-17 15:26:18 info: [0mPOST /signup [33m409[0m 3.271 ms - 64[0m
+2022-01-17 15:26:23 info: [0mPOST /signup [32m201[0m 85.615 ms - 179[0m
+2022-01-17 15:26:27 info: [0mPOST /login [32m200[0m 86.519 ms - 176[0m
+2022-01-17 15:26:32 info: [0mPOST /logout [32m200[0m 4.762 ms - 177[0m
+2022-01-17 15:27:03 info: [0mGET / [32m200[0m 0.549 ms - 2[0m
+2022-01-17 15:27:39 info: [0mGET /users [32m200[0m 3.353 ms - 180[0m
+2022-01-17 15:28:04 info: [0mGET /users/61e51994ee39933778d66c98 [32m200[0m 2.966 ms - 178[0m
+2022-01-17 15:32:24 info: [0mGET /users [32m200[0m 4.257 ms - 377[0m
+2022-01-17 15:32:24 info: [0mGET /users/qpwoeiruty [32m200[0m 0.932 ms - 145[0m
+2022-01-17 15:32:24 info: [0mPOST /users [32m201[0m 204.268 ms - 162[0m
+2022-01-17 15:32:25 info: [0mPUT /users/60706478aad6c9ad19a31c84 [32m200[0m 63.948 ms - 162[0m
+2022-01-17 15:32:25 info: [0mDELETE /users/60706478aad6c9ad19a31c84 [32m200[0m 0.617 ms - 162[0m
+2022-01-17 15:32:28 info: [0mPOST /signup [32m201[0m 66.702 ms - 161[0m
+2022-01-17 15:32:28 info: [0mPOST /login [32m200[0m 66.156 ms - 160[0m
+2022-01-17 15:32:29 info: [0mGET / [32m200[0m 0.529 ms - 2[0m
